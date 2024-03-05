@@ -36,11 +36,11 @@
 
 
 ## 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atakavuncu&show_icons=true&locale=en&layout=compact" alt="atakavuncu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atakavuncu&show_icons=true&locale=en&layout=compact&theme=dark" alt="atakavuncu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atakavuncu&show_icons=true&locale=en" alt="atakavuncu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atakavuncu&show_icons=true&locale=en&theme=dark" alt="atakavuncu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atakavuncu&" alt="atakavuncu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atakavuncu&theme=dark" alt="atakavuncu" /></p>
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atakavuncu" alt="atakavuncu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atakavuncu&theme=radical" alt="atakavuncu" /></a> </p>
