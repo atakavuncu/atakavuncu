@@ -1,8 +1,6 @@
 <h1 align="left">Hi there, I'm Ata Kavuncu 👋</h1>
 
-- 👨🏻‍💻 I’m Android Developer Intern at Vodafone Türkiye
-
-- 🔭 I’m currently working on **Vodafone Yanımda**
+- 👨🏻‍💻 I’m Android Developer
 
 - 🌱 I’m currently learning **Node.js**
 
